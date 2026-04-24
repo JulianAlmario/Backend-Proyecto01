@@ -9,7 +9,7 @@ require('dotenv').config({ path: './.env' });
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin: ['http://localhost:4321','https://digital-library-node.onrender.com/'],
+    origin: ['http://localhost:4321','https://digital-library-node.onrender.com'],
     methods: 'GET,POST,PUT,DELETE,PATCH',
     allowedHeaders: 'Content-Type,Authorization'
 }));
