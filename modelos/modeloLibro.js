@@ -34,6 +34,10 @@ const libroSchema = new mongoose.Schema({
     inabilitado: {
         type: Boolean,
         default: false
+    },
+    image:{
+        type:String,
+        required:true
     }
 });
 

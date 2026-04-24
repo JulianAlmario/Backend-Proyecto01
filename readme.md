@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Esta API para una bibliotecaproporciona funcionalidades para la gestión de usuarios, libros y reservas. Incluye endpoints para crear, leer, actualizar y eliminar recursos, además de manejar la autenticación y autorización de usuarios.
+Esta API es para una biblioteca, la cual proporciona funcionalidades para la gestión de usuarios, libros y reservas. Incluye endpoints para crear, leer, actualizar y eliminar recursos, además de manejar la autenticación y autorización de usuarios.
 
 ---
 
